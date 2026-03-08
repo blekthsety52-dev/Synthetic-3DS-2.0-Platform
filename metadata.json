@@ -1,0 +1,5 @@
+{
+  "name": "Synthetic 3DS 2.0 Platform",
+  "description": "EMVCo-compliant synthetic 3-D Secure 2.0 authentication platform for testing and certification.",
+  "requestFramePermissions": []
+}
